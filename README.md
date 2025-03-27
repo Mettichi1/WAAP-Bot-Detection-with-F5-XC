@@ -35,6 +35,7 @@ Before diving into the security configurations, I set up the lab environment:
 
 ### **📌 Publishing & Protecting a Web Application**
 - Deployed the **OWASP Juice Shop** a vulnerable web application used for security testing on **F5 XC**
+  
   <img src="Images/7.png">
   <img src="Images/8.png">
   <img src="Images/9.png">
@@ -43,12 +44,32 @@ Before diving into the security configurations, I set up the lab environment:
   <img src="Images/12.png">
   <img src="Images/13.png">
   <img src="Images/14.png">
-- Configured security policies to safeguard against threats  
+  <img src="Images/15.png">
+  <img src="Images/16.png">
 
-### **🛡️ Enabling WAAP & Malicious User Detection**
+  
+### **🛡️ Enabling and configuring WAAP & Malicious User Detection policies**to safeguard against threats
 - Enabled and customized **WAAP policies**  
 - Simulated real-world **exploits** to test the security posture  
-- Identified and analyzed **malicious user behavior**  
+- Identified and analyzed **malicious user behavior**
+
+  <img src="Images/17.png">
+  <img src="Images/18.png">
+  <img src="Images/19.png">
+  <img src="Images/20.png">
+  <img src="Images/21.png">
+  <img src="Images/22.png">
+  <img src="Images/23.png">
+  <img src="Images/24.png">
+  <img src="Images/25.png">
+  <img src="Images/26.png">
+  <img src="Images/27.png">
+  <img src="Images/28.png">
+  <img src="Images/29.png">
+  <img src="Images/30.png">
+  <img src="Images/31.png">
+  <img src="Images/32.png">
+
 
 ### **🔍 API Discovery & Endpoint Protection**
 - Used **API Discovery** to map exposed APIs  
@@ -60,14 +81,10 @@ Before diving into the security configurations, I set up the lab environment:
 - Applied **Rate Limiting** policies to prevent API abuse  
 - Tested rate limits by simulating high request traffic  
 
-📸 **Suggested Screenshots:**  
-✅ Juice Shop deployment on F5 XC  
-✅ WAAP policy configuration  
-✅ Attack simulation results  
-✅ API Discovery mappings  
-✅ Rate Limiting enforcement logs  
 
----
+
+
+
 
 ## **4️⃣ Lab 2: Bot Defense & Protection**  
 

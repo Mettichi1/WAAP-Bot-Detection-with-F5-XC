@@ -122,11 +122,11 @@ Before diving into the security configurations, I set up the lab environment:
 
 ## **4️⃣ Lab 2: Bot Defense & Protection**  
 
-### ** Signature-Based Bot Defense**
+### **Signature-Based Bot Defense**
 - Tested **signature-based bot detection** mechanisms  
 - Differentiated between **good bots & malicious bots**  
 
-### ** Protecting Application Endpoints**
+### **Protecting Application Endpoints**
 - Applied bot defense policies to **specific API endpoints**  
 - Evaluated bot mitigation effectiveness
   

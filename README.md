@@ -22,27 +22,27 @@ Before diving into the security configurations, I set up the lab environment:
 ### **🔹 Lab Access & Authentication**
 - Logged into the **Westcon Lab console powered by cloudshare**
 
-  <img src="1.png">
+  <img src="Images/1.png">
   <img src="Images/2.png">
   <img src="Images/3.png">
 
-- Logged into the **F5 Distributed Cloud (XC) console**
+- Logged into the **F5 Distributed Cloud (XC) console** and familiarized myself with the **XC dashboard & security configurations**
   <img src="Images/4.png">
   <img src="Images/5.png">
-
-  
-- Familiarized myself with the **XC dashboard & security configurations**  
-
-### **🔹 Application Deployment**
-- Published the **OWASP Juice Shop**, a vulnerable web application used for security testing  
-- Configured **DNS & traffic routing** via F5 XC  
-
----
+  <img src="Images/6.png">
 
 ## **3️⃣ Lab 1: Web Application & API Protection (WAAP) + Rate Limiting**  
 
 ### **📌 Publishing & Protecting a Web Application**
-- Deployed the **OWASP Juice Shop** application on **F5 XC**  
+- Deployed the **OWASP Juice Shop** a vulnerable web application used for security testing on **F5 XC**
+  <img src="Images/7.png">
+  <img src="Images/8.png">
+  <img src="Images/9.png">
+  <img src="Images/10.png">
+  <img src="Images/11.png">
+  <img src="Images/12.png">
+  <img src="Images/13.png">
+  <img src="Images/14.png">
 - Configured security policies to safeguard against threats  
 
 ### **🛡️ Enabling WAAP & Malicious User Detection**

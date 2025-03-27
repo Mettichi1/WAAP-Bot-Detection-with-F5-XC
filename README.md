@@ -73,16 +73,18 @@ Before diving into the security configurations, I set up the lab environment:
 
 ### **🔍 API Discovery & Endpoint Protection**
 - Used **API Discovery** to map exposed APIs  
-- Defined API security policies to protect endpoints from abuse  
-
+- Defined API security policies to protect endpoints from abuse
+  
 ### **🚦 Applying Service Policies & Rate Limiting**
 - **Configured service policies** to enhance application security  
 - Implemented **IP Reputation Filtering** to block known malicious IPs  
 - Applied **Rate Limiting** policies to prevent API abuse  
 - Tested rate limits by simulating high request traffic  
 
-
-
+<img src="Images/33.png">
+<img src="Images/34.png">
+<img src="Images/35.png">
+<img src="Images/36.png">
 
 
 

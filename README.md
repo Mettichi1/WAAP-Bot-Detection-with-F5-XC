@@ -22,8 +22,13 @@ Before diving into the security configurations, I set up the lab environment:
 ### **🔹 Lab Access & Authentication**
 - Logged into the **Westcon Lab console powered by cloudshare**
 
-  
+  <img src="1.png">
+  <img src="Images/2.png">
+  <img src="Images/3.png">
+
 - Logged into the **F5 Distributed Cloud (XC) console**
+  <img src="Images/4.png">
+  <img src="Images/5.png">
 
   
 - Familiarized myself with the **XC dashboard & security configurations**  

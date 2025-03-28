@@ -9,8 +9,7 @@ This repository presents a comprehensive hands-on experience with **F5 Distribut
 ##  Table of Contents  
 
 - [1️⃣ Introduction](#1️⃣-introduction)  
-- [2️⃣ Lab Environment & Setup](#2️⃣-lab-environment--setup)  
-  - [Lab Access & Authentication](#-lab-access--authentication)  
+- [2️⃣ Lab Environment & Setup](#2️⃣-lab-environment--setup)    
 - [3️⃣ Lab 1: Web Application & API Protection (WAAP) + Rate Limiting](#3️⃣-lab-1-web-application--api-protection-waap--rate-limiting)  
   - [Publishing & Protecting a Web Application](#publishing--protecting-a-web-application)  
   - [Enabling and Configuring WAAP & Malicious User Detection Policies](#enabling-and-configuring-waap--malicious-user-detection-policies)  

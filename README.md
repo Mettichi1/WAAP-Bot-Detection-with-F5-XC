@@ -1,4 +1,4 @@
-# 🔒 F5 Distributed Cloud (XC) Labs – WAAP, Rate Limiting & Bot Defense  
+# F5 Distributed Cloud (XC) Labs – WAAP, Rate Limiting & Bot Defense  
 
 This repository presents a comprehensive hands-on experience with **F5 Distributed Cloud (XC)** security labs, focusing on:  
    - **Web Application & API Protection (WAAP):** Deployment of OWASP Juice Shop, configuration of WAAP policies, and API protection testing.  
